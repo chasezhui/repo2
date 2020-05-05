@@ -16,4 +16,9 @@ public class Test {
         System.out.println("测试测试.....");
 
     }
+
+    public void test(){
+        int i = 9;
+        i+=10;
+    }
 }
