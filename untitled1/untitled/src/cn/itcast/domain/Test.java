@@ -20,5 +20,6 @@ public class Test {
     public void test(){
         int i = 9;
         i+=10;
+        System.out.println(i);
     }
 }
